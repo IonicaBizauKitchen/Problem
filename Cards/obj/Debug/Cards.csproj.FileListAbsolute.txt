@@ -1,0 +1,9 @@
+D:\Programe\Semestrul II\POO\Cards\Cards\bin\Debug\Cards.exe.config
+D:\Programe\Semestrul II\POO\Cards\Cards\bin\Debug\Cards.exe
+D:\Programe\Semestrul II\POO\Cards\Cards\bin\Debug\Cards.pdb
+D:\Programe\Semestrul II\POO\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+D:\Programe\Semestrul II\POO\Cards\Cards\obj\Debug\Cards.Form1.resources
+D:\Programe\Semestrul II\POO\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+D:\Programe\Semestrul II\POO\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\Programe\Semestrul II\POO\Cards\Cards\obj\Debug\Cards.exe
+D:\Programe\Semestrul II\POO\Cards\Cards\obj\Debug\Cards.pdb
